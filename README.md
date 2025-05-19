@@ -2,12 +2,6 @@
 
 ## 一键启动命令 🛠️
 
-### Windows (WSL) 🪟
-以管理员身份运行 PowerShell  
-一键命令：
-```powershell
-Invoke-WebRequest -Uri https://raw.githubusercontent.com/onesJ1127/Nockchain/main/nockchain_install.ps1 -OutFile nockchain_install.ps1; .\nockchain_install.ps1
-```
 
 ### macOS 🍎
 打开终端  
