@@ -6,4 +6,5 @@
 ##下载new.sh
 
 chmod +x run_nockchain.sh
+
 ./run_nockchain.sh
